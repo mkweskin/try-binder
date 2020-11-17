@@ -2,7 +2,7 @@ vim
 emacs
 nano
 man-db
-man-pages
+manpages
 manpages-posix
 manpages-dev
 manpages-posix-dev
