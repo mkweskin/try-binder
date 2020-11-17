@@ -1,2 +1,7 @@
 vim
+emacs
 nano
+man-db
+manpages-posix
+manpages-dev
+manpages-posix-dev
